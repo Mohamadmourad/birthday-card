@@ -77,6 +77,6 @@ i{
 img{
     width: 180px;
     height: 180px;
-    position: fixed;
-    bottom: 224px;
+    position: absolute;
+    
 }
